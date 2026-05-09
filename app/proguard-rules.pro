@@ -1,4 +1,4 @@
--keep,allowobfuscation class com.example.hooktest.MainHook
+-keep,allowobfuscation class com.example.forcehdr.MainHook
 -adaptresourcefilecontents META-INF/xposed/java_init.list
 
 -keep,allowobfuscation,allowoptimization public class * extends io.github.libxposed.api.XposedModule {

@@ -1,4 +1,4 @@
-package com.example.hooktest
+package com.example.forcehdr
 
 import android.annotation.SuppressLint
 import android.os.Handler

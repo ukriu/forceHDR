@@ -1,10 +1,10 @@
-package com.example.hooktest
+package com.example.forcehdr
 
 import android.util.Log
 import io.github.libxposed.api.XposedInterface
 
 var logPrefix: String = ""
-const val LOG_TAG = "DmsHook"
+const val LOG_TAG = "forceHDR"
 
 var xposedLog: XposedInterface? = null
 
